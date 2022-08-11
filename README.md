@@ -26,3 +26,4 @@ In this graph we can see the total fare by each city based on the collected data
 By comparing the average number of rides between each city type, we realize that the average number of rides in the rural cities is 3.5 and this shows it is 2.5 times lower than Urban and Suburban cities.
 There is one outlier in the urban ride count data. Also, the average number of rides in the rural cities is about 4- and 3.5-times lower per city than the urban and suburban cities, respectively. The average fare for rides in the rural cities is about $11 and $5 more per ride than the urban and suburban cities.
 The average number of drivers in rural cities is nine to four times less per city than in urban and suburban cities, respectively.
+It is best that the CEO eliminated the number of drivers in Urban city and increase the number of drivers in rural city. This will help the total fare to increase and the will reduce the drivers’ costs respectively. 
