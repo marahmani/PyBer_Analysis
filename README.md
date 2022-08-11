@@ -1,4 +1,5 @@
 # PyBer_Analysis
+
 1.	Overview of the analysis:
 
 The purpose of this analysis is to show the rideshare data for PyBer to help improve access to ride-sharing services by visualizing the data to make better decisions in forecasting the number of drivers per city type. Throughout the module, we have used different types of charts to understand it better and make better conclusions. We have calculated total number of rides, average fares for each city type and total number of drivers for each city type and used different charts to show them visually.
