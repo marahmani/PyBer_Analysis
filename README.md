@@ -5,14 +5,19 @@ The purpose of this analysis is to show the rideshare data for PyBer to help imp
 2.	Results:
 
 Ridesharing Data by City Type
+
 ![image](https://user-images.githubusercontent.com/49285767/184079603-bf9b1c3c-40f3-4148-afdb-b85da8a00b5c.png)
+
 Urban shows overall that it has bigger total rides and drivers and total fares among the other two cities. It also has the lowest average fare per ride and average fare per driver.
+
 Sum of Total Fares Each Week
+
 ![image](https://user-images.githubusercontent.com/49285767/184082933-b4c00bb2-0147-4980-9a99-53ad728b526a.png)
 
 Urban city again shows higher total fare in comparison to Suburban and Rural cities considering the weekly combined data sorted.
 
 Total Fares by City Type
+
 ![image](https://user-images.githubusercontent.com/49285767/184081936-bba4f220-0379-4c81-bb84-8fdda3f4d60e.png)
 In this graph we can see the total fare by each city based on the collected data. The x_axis represent the Months, the y-axis represents the Fare in $USD.
 
